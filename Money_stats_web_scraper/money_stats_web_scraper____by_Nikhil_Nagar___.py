@@ -4,7 +4,6 @@ Created on Mon Mar 23 20:49:51 2020
 
 @author: Nikhil Nagar
 
-assignment submission for Internship opportunity at Chattel Technologies
 """
 
 #packages to insatll >> pip install bs4
